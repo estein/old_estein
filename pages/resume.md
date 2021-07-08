@@ -6,14 +6,13 @@ permalink: /resume/
 ---
 
 Skills
-
-  -------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------
   Programs       R, SPSS, SAS, MATLAB, MS Suite, Google Suite, OBS Studio, & Audacity
   Research       Experimental design, mixed methods, survey design, conducting interviews, & observations
   Statistics     T-test, chi-square, ANOVA, repeated measures ANOVA, regression, & mixed models
   Teaching       Course creation, curriculum development, slide design, Canvas UX, & mentorship
-  Professional   Personable, empathetic, reflective listener, skilled communicator, analytical, data-driven, strategic, problem solving, project management, collaborative, efficient, resilient, adaptive, & innovative
-  -------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Professional   Personable, empathetic, reflective listener, skilled communicator, analytical, data-driven, strategic, problem solving, project management, collaborative,                        efficient, resilient, adaptive, & innovative
+------
 
 Experience
 
