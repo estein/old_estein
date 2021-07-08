@@ -4,7 +4,19 @@ title: Resume
 description: Evan's Resume
 permalink: /resume/
 ---
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
 
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
 | Header 1  | Another header here | This is a long header |
 | --------  | ------------------- | --------------------- |
 | Some data | Some more data      | data                  | 
