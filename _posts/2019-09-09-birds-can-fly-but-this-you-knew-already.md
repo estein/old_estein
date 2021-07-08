@@ -1,8 +1,8 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2021-07-08
 layout: post
 title: Marketing Analytics Project: Exploratory Data Analysis
-subtitle: This 
+subtitle: This is just a practice project to demonstrate my R and data science skills.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: life
