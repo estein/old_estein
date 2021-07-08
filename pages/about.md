@@ -5,7 +5,7 @@ description: About Evan
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Evan Stein" width="200">
+<img class="img-rounded" src="/assets/img/profile.png" alt="Evan Stein" width="200">
 
 # About
 
