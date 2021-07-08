@@ -9,17 +9,19 @@ category: life
 tags:
   - life
   - tips
-author: thiagorossener
+author: evanstein
 ---
 
 # Introduction
 
-## Table of Contents
+This is a demonstration of using R and statistics to solve the marketing
+problem outlined below.
 
-[Project Task](#Project%20Task)  
-[Emphasis](#Emphasis)
+I am using Windows 10, R version 4.1.0, and RStudio version 1.4.1106.
 
-## Project Task
+The data for this project can be found here [Marketing Analytics:
+Practice Exploratory and Statistical Analysis with Marketing
+Data](https://www.kaggle.com/jackdaoud/marketing-data).
 
 #### Task Details
 
@@ -56,12 +58,12 @@ can understand your findings.
 -   Your supervisor insists that people who buy gold are more
     conservative. Therefore, people who spent an above average amount on
     gold in the last 2 years would have more in store purchases. Justify
-    or refute this statement using an appropriate statistical test
+    or refute this statement using an appropriate statistical test.
 -   Fish has Omega 3 fatty acids which are good for the brain.
     Accordingly, do “Married PhD candidates” have a significant relation
     with amount spent on fish? What other factors are significantly
     related to amount spent on fish? (Hint: use your knowledge of
-    interaction variables/effects)
+    interaction variables/effects).
 -   Is there a significant relationship between geographical regional
     and success of a campaign?
 
@@ -72,7 +74,7 @@ Please plot and visualize the answers to the below questions.
 -   Which marketing campaign is most successful?
 -   What does the average customer look like for this company?
 -   Which products are performing best?
--   Which channels are underperforming?
+-   Which channels are under performing?
 
 #### Section 04: CMO Recommendations
 
@@ -101,17 +103,7 @@ conclusions.
     A high quality analysis should be concise and clear at each step so
     the rationale is easy to follow and the process is reproducible.
 
-## Emphasis
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
+## 
 
 ``` r
 summary(cars)
