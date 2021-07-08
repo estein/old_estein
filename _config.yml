@@ -14,6 +14,8 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Resume
+    url: /resume
   - title: Contact
     url: /contact
   - title: Feed
