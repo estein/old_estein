@@ -13,13 +13,12 @@ tags:
 author: thiagorossener
 ---
 
-# Marketing Exploratory Data Analysis{.tabset}
+##### Table of Contents
 
-### Step 1
-
-### Step 2
-
-### Step 3
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+…snip…  
+<a name="headers"/> \#\# Headers
 
 ## R Markdown
 
@@ -42,7 +41,6 @@ summary(cars)
     ##  Mean   :15.4   Mean   : 42.98  
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
-
 
 
 
