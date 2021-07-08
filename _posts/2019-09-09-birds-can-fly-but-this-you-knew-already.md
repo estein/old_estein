@@ -15,10 +15,12 @@ author: thiagorossener
 
 ##### Table of Contents
 
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-…snip…  
-<a name="headers"/> \#\# Headers
+[Headers](#Headers)  
+[Emphasis](#Emphasis)
+
+## Headers
+
+## Emphasis
 
 ## R Markdown
 
