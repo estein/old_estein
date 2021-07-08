@@ -1,6 +1,11 @@
+---
+layout: page
+title: Resume
+description: Evan's Resume
+permalink: /resume/
+---
 Skills
 
-|              |                                                                                                                                                                                                         |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Programs     | R, SPSS, SAS, MATLAB, MS Suite, Google Suite, OBS Studio, & Audacity                                                                                                                                    |
 | Research     | Experimental design, mixed methods, survey design, conducting interviews, & observations                                                                                                                |
