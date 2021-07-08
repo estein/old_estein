@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/profile.png
 name: evanstein
 display_name: Evan Stein
 position: Creator
