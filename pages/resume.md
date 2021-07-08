@@ -5,4 +5,4 @@ description: Evan's Resume
 permalink: /resume/
 ---
 
-![Resume](/assets/img/EvanStein_Resume-Git-1.png){height: "125%" width: "125%}
+![Resume](/assets/img/EvanStein_Resume-Git-1.png){:height "150%" width "150%}
