@@ -23,6 +23,74 @@ The data for this project can be found here [Marketing Analytics:
 Practice Exploratory and Statistical Analysis with Marketing
 Data](https://www.kaggle.com/jackdaoud/marketing-data).
 
+I will use the following packages:
+
+``` r
+library(tidyverse)
+```
+
+    ## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --
+
+    ## v ggplot2 3.3.5     v purrr   0.3.4
+    ## v tibble  3.1.2     v dplyr   1.0.7
+    ## v tidyr   1.1.3     v stringr 1.4.0
+    ## v readr   1.4.0     v forcats 0.5.1
+
+    ## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
+    ## x dplyr::filter() masks stats::filter()
+    ## x dplyr::lag()    masks stats::lag()
+
+``` r
+library(afex)
+```
+
+    ## Loading required package: lme4
+
+    ## Loading required package: Matrix
+
+    ## 
+    ## Attaching package: 'Matrix'
+
+    ## The following objects are masked from 'package:tidyr':
+    ## 
+    ##     expand, pack, unpack
+
+    ## ************
+    ## Welcome to afex. For support visit: http://afex.singmann.science/
+
+    ## - Functions for ANOVAs: aov_car(), aov_ez(), and aov_4()
+    ## - Methods for calculating p-values with mixed(): 'KR', 'S', 'LRT', and 'PB'
+    ## - 'afex_aov' and 'mixed' objects can be passed to emmeans() for follow-up tests
+    ## - NEWS: library('emmeans') now needs to be called explicitly!
+    ## - Get and set global package options with: afex_options()
+    ## - Set orthogonal sum-to-zero contrasts globally: set_sum_contrasts()
+    ## - For example analyses see: browseVignettes("afex")
+    ## ************
+
+    ## 
+    ## Attaching package: 'afex'
+
+    ## The following object is masked from 'package:lme4':
+    ## 
+    ##     lmer
+
+``` r
+library(caret)
+```
+
+    ## Loading required package: lattice
+
+    ## 
+    ## Attaching package: 'caret'
+
+    ## The following object is masked from 'package:purrr':
+    ## 
+    ##     lift
+
+``` r
+library(knitr)
+```
+
 #### Task Details
 
 You’re a marketing analyst and you’ve been told by the Chief Marketing
@@ -103,7 +171,15 @@ conclusions.
     A high quality analysis should be concise and clear at each step so
     the rationale is easy to follow and the process is reproducible.
 
-## 
+#### Section 01: Exploratory Data Analysis
+
+-   Are there any null values or outliers? How will you wrangle/handle
+    them?
+-   Are there any variables that warrant transformations?
+-   Are there any useful variables that you can engineer with the given
+    data?
+-   Do you notice any patterns or anomalies in the data? Can you plot
+    them?
 
 ``` r
 summary(cars)
